@@ -1,3 +1,5 @@
+<!-- Done On 31/12/2023 -->
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -11,11 +13,16 @@
   -->
   <style>
     .container {
-      color: white;
+      color: rgb(242, 230, 230);
       border: 5px solid gold;
-      display: flex;
+      display: inline-flex;
+      flex-direction: column;
+      flex-basis: 100px;
     }
-
+    
+    div > div /* OR .container > * */ {
+      flex-basis: 100px;
+    }
     /*
 Select all the elements that are the direct
 children of the .container class.
