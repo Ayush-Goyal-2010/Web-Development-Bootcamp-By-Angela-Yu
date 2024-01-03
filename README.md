@@ -34,3 +34,7 @@ Here is the timeline, where I try to code or do something for atleast 30 minutes
 
 * Day - 10 (02/01/2024)
   * Project Planning and UI Designing
+
+* Day - 11 (03/01/2024)
+  * Completion of Section 10:- Bootstrap
+  * Development of Move It
